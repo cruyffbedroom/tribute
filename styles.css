@@ -1,0 +1,35 @@
+* {
+    background-color: plum;
+}
+
+
+#main {
+    background-color: plum;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 300;
+    box-sizing: border-box;
+}
+
+#title {
+    font-size: large;
+    padding-top: 7px;
+}
+
+figure {
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#tribute-info ul li {
+    margin: 0;
+    padding: 0;
+}
