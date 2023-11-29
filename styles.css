@@ -14,11 +14,11 @@
 }
 
 #title {
-    font-size: large;
+    font-size: 50px;
     padding-top: 7px;
 }
 
-figure {
+#img-div {
     max-width: 100%;
     height: auto;
 }
