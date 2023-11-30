@@ -14,8 +14,11 @@
 }
 
 #title {
-    font-size: 50px;
     padding-top: 7px;
+}
+
+h1 {
+    font-size: 2.5em;
 }
 
 img {
